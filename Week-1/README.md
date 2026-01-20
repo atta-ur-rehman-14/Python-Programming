@@ -1,4 +1,5 @@
-Week1 - Project Setup Guide and hello world
+ # Project Setup Guide and hello world
+
 This guide explains how to set up the development environment using Visual Studio Code (VS Code) with Jupyter notebook, Python.
 
 Prerequisites
@@ -16,13 +17,13 @@ Open Command prompt (CLI)
 
 Validate Conda & Pythonn are successfully installed.
 
-python --version
+- python --version
 Open Python Environment on Command Prompt (CLI)
 
 python [Hit enter you will be in Python Enviornment of CLI]
 Run the following Python command:
 
-print("Hello World!!!")
+print("Hello Saylani...!!!")
 Working Guide with VSCode
 Create a folder in you system in desktop with name "python-programming"
 
