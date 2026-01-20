@@ -2,15 +2,19 @@
 
 This guide explains how to set up the development environment using Visual Studio Code (VS Code) with Jupyter notebook, Python.
 
-Prerequisites
+# requirement
 Make sure you have downloaded file of Visual Studio Code (VS Code) and Python using the below link.
 
 Visual Studio Code (VS Code)
 Python
-Installation Guide
+
+# Installation Guide
+
 Visual Studio Code (VS Code) installation is very straight forward, simple click on dowloaded file and installl it.
 Please make sure to check on (add to path variable) and then simple click on INSTALL NOW to install python langauge.
-Verification
+
+# Verification
+
 Below are the steps for Python Installation Using Command Prompt on Windows
 
 Open Command prompt (CLI)
@@ -24,17 +28,20 @@ python [Hit enter you will be in Python Enviornment of CLI]
 Run the following Python command:
 
 print("Hello Saylani...!!!")
-Working Guide with VSCode
+
+# Working Guide with VSCode
+
 Create a folder in you system in desktop with name "python-programming"
 
 From the address bar open command prompt cmd and then open vscode using code .
 
 Make sure to install necessary extendions.
 
-Python
-Jupyter Notebook
+ 1. Python
+ 2. Jupyter Notebook
 Create a Jupyter file with name class1.ipynb
 
 Set the kernal as Python OR any environment which have Python.
 
 Once all set create a cell and type print("Hello-World").
+
