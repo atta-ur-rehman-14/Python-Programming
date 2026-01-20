@@ -5,7 +5,7 @@ This guide explains how to set up the development environment using Visual Studi
 # requirement
 Make sure you have downloaded file of Visual Studio Code (VS Code) and Python using the below link.
 
-- Visual Studio Code (VS Code) [ https://code.visualstudio.com/ ]
+- [Visual Studio Code (VS Code)] (https://code.visualstudio.com/)
 - Python
 
 # Installation Guide
@@ -44,5 +44,6 @@ Create a Jupyter file with name class1.ipynb
 Set the kernal as Python OR any environment which have Python.
 
 Once all set create a cell and type print("Hello-World").
+
 
 
