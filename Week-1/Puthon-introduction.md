@@ -37,29 +37,24 @@ Python was designed for readability, and has some similarities to the English la
 Python uses new lines to complete a command, as opposed to other programming languages which often use semicolons or parentheses.
 eg:
 ## C++ Program
-'''
-
-
+```
 #include <iostream>
-
 int main() {
     std::cout << "Hello World!";
     return 0;
 }
-'''
+```
 ## Python Program
-'''
+```
 print("Hello World!)
-'''
-
+```
 - Python relies on ````indentation````, using ````whitespace````, to define 
   scope; such as the scope of loops, functions and classes. Other programming languages often use curly-brackets for this purpose.
 eg:
 
 # Python Loop
-'''
+```
 for x in range(6):
   print(x)
-  
-'''  
+```   
 
