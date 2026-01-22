@@ -4,7 +4,7 @@
   but at a time it can hold only one value. 
 - Data store in memory (memory means RAM).
 # Example of variable code
-## Creating Veriable 
+## Creating Veriable As String
 
 ```
 Name="Atta Ur Rehman"
@@ -12,13 +12,40 @@ print(Name)
 ```
 ## Type of given data
 ```
-print(Name)
+type(Name)
 ```
 ## Finding Id or Address of storing data
 ```
 id(Name)
 ```
+## Creating Veriable As number/Integer
 
+```
+Num= 20
+print(Num)
+```
+## Type of given data
+```
+type(Num)
+```
+## Finding Id or Address of storing data
+```
+id(Num)
+```
+
+## Creating Veriable As Float
+```
+Weight= 20.2
+print(Weight)
+```
+## Type of given data
+```
+type(Weight)
+```
+## Finding Id or Address of storing data
+```
+id(Weight)
+```
 # Practice Exercise For Variable 
 
 ```
