@@ -55,7 +55,10 @@ http://www.ASmarterWayToLearn.com/python/2.html
 
 # Datatypes
 ```
-Integers --> ````Numbers```` eg. 23
+Integers -->
+``` 
+Numbers
+``` eg. 23
 Decimal --> ````Float```` eg. 12.4
 Character --> ````string```` eg. "Atta"
 Binary 0/1 OR True/False --> ````Boolean```` eg. True/False 
