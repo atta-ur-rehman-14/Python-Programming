@@ -59,6 +59,25 @@ print("Hello World...!!!")
 
 - Once all set create a cell and type print("Hello-World").
 
+# SHORT CUT KEYS
+```
+To run a cell SHIFT+ENTER.
+```
+```
+To convert Python cell to Markdown ESC + M
+```
+```
+To conver Makrfown to Python cell ESC + Y
+```
+```
+To create cell below ESC + B
+```
+To Create cell above ESC + A
+```
+```
+To Delete a cell ESC+DD (Dshould be two times)
+```
+
 
 
 
