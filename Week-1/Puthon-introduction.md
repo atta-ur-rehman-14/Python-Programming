@@ -37,29 +37,42 @@ Python was designed for readability, and has some similarities to the English la
 Python uses new lines to complete a command, as opposed to other programming languages which often use semicolons or parentheses.
 eg:
 ## C++ Program
-'''
-
-
+```
 #include <iostream>
-
 int main() {
     std::cout << "Hello World!";
     return 0;
 }
-'''
+```
 ## Python Program
-'''
+```
 print("Hello World!)
-'''
-
+```
 - Python relies on ````indentation````, using ````whitespace````, to define 
   scope; such as the scope of loops, functions and classes. Other programming languages often use curly-brackets for this purpose.
 eg:
 
 # Python Loop
-'''
+```
 for x in range(6):
   print(x)
-  
-'''  
+```
+# Difference Between Compiler and Interpreter
+
+## Compiter
+- Translation Process: Translates the entire program into machine code at once before execution.
+- Output: Generates an independent executable file (e.g., .exe or .obj).
+- Execution Speed: Generally faster because the code is already pre-translated.
+- Error Detection: Reports all syntax errors only after scanning the entire program.
+- Memory Usage: More memory-efficient during execution as the translator isn't needed once compiled.
+- Examples: C, C++, Rust, Go.
+## Interpreter
+- Translation Process: Translates and executes the program line-by-line during runtime.
+- Output: Does not generate an output file; it executes code directly.
+- Execution Speed: Slower because translation happens simultaneously with execution.
+- Error Detection: Reports errors one by one as it encounters them in a specific line.
+- Memory Usage: Higher memory usage because the interpreter must remain in memory during execution.
+- Examples: Python, JavaScript, Ruby, PHP.
+
+
 
