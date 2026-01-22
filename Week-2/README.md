@@ -54,12 +54,45 @@ http://www.ASmarterWayToLearn.com/python/2.html
 ```
 
 # Datatypes
+ Datatype specify the value of data that variable hold.That is use to perform operation
+
+- Integers -->  ````Numbers```` eg. 23
+- Decimal --> ````Float```` eg. 12.4
+- Character --> ````string```` eg. "Atta"
+- Binary 0/1 OR True/False --> ````Boolean```` eg. True/False 
+
+### Apply all these steps/Rules on diffferen data types ( string, integer, float, bool)
+
+- creating a variable eg: variable_name = variable_value 
+- printing that variable eg: print(variable_name) 
+- check the type of variable eg: type(variable_name) 
+- check the address of the variable eg: id(variable_name)
+
+## Creating Veriable As Boolean
 ```
-Integers -->
-``` 
-Numbers
-``` eg. 23
-Decimal --> ````Float```` eg. 12.4
-Character --> ````string```` eg. "Atta"
-Binary 0/1 OR True/False --> ````Boolean```` eg. True/False 
+boolean_var=True
+print(boolean_var)
 ```
+## Type of given data
+```
+type(boolean_var)
+```
+## Finding Id or Address of storing data
+```
+id(boolean_var)
+```
+## Creating Veriable As Boolean
+```
+boolean_var=False
+print(boolean_var)
+```
+## Type of given data
+```
+type(boolean_var)
+```
+## Finding Id or Address of storing data
+```
+id(boolean_var)
+```
+
+
