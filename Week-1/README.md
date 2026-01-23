@@ -78,7 +78,9 @@ To Create cell above ESC + A
 ```
 To Delete a cell ESC+DD (Dshould be two times)
 ```
-
+```
+To save file press CTRL+S
+```
 
 
 

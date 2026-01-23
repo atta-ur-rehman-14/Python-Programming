@@ -46,12 +46,8 @@ type(Weight)
 ```
 id(Weight)
 ```
-# Practice Exercise For Variable 
+- [Practice Exercise For Variable](http://www.ASmarterWayToLearn.com/python/2.html) 
 
-```
- For further practice and interactive coding exercises, visit:
-http://www.ASmarterWayToLearn.com/python/2.html
-```
 
 # Datatypes
  Datatype specify the value of data that variable hold.That is use to perform operation
@@ -94,5 +90,30 @@ type(boolean_var)
 ```
 id(boolean_var)
 ```
+# Operators
 
+- ````Addition```` +
+```
+2+5
+```
+- `````Subtraction```` -
+```
+5-3
+```
+- ````Multiplication```` *
+```
+3*3
+```
+- ````Divide```` /
+```
+20/5 # Note it down that divide give result in FLOAT
+```
+- ````Power```` **
+```
+2**3 # 2*2*2
+```
+```
+4**5 # 4*4*4*4*4
+````
 
+- [Practice for Operators](http://www.ASmarterWayToLearn.com/python/4.html)
