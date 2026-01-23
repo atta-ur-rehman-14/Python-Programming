@@ -120,29 +120,7 @@ id(boolean_var)
 
 - [Practice Exercise for Operators](http://www.ASmarterWayToLearn.com/python/4.html)
 
-```
-20/5
-```
-```
-##### 3*6 = 18
-##### 3*7 = 21
-20 % 3
-```
-```
-13%4
-```
 
-```
-##### 13/4 => 3.25
-13//4
-```
-
-```
-##### 20/3 = 6.66
-
-20//3
-```
-
-```
-26//5
-```
+# Unfamiliar Operator
+- Reminder/Modulus %
+- Floor //
