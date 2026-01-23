@@ -90,6 +90,8 @@ type(boolean_var)
 ```
 id(boolean_var)
 ```
+- [Practice Exercise for Var Rules](http://www.ASmarterWayToLearn.com/python/5.html  )
+
 # Operators
 
 - ````Addition```` +
@@ -116,4 +118,9 @@ id(boolean_var)
 4**5 # 4*4*4*4*4
 ````
 
-- [Practice Exer cise for Operators](http://www.ASmarterWayToLearn.com/python/4.html)
+- [Practice Exercise for Operators](http://www.ASmarterWayToLearn.com/python/4.html)
+
+
+# Unfamiliar Operator
+- Reminder/Modulus %
+- Floor //
