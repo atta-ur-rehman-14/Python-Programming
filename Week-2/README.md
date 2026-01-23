@@ -119,8 +119,3 @@ id(boolean_var)
 ````
 
 - [Practice Exercise for Operators](http://www.ASmarterWayToLearn.com/python/4.html)
-
-
-# Unfamiliar Operator
-- Reminder/Modulus %
-- Floor //
