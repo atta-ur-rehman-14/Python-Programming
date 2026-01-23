@@ -96,7 +96,7 @@ id(boolean_var)
 ```
 2+5
 ```
-- `````Subtraction```` -
+- ````` Subtraction ```` -
 ```
 5-3
 ```
