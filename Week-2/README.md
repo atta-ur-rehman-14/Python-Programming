@@ -116,4 +116,4 @@ id(boolean_var)
 4**5 # 4*4*4*4*4
 ````
 
-- [Practice for Operators](http://www.ASmarterWayToLearn.com/python/4.html)
+- [Practice Exer cise for Operators](http://www.ASmarterWayToLearn.com/python/4.html)
