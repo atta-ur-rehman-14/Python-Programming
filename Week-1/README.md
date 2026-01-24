@@ -81,6 +81,11 @@ To Delete a cell ESC+DD (Dshould be two times)
 ```
 To save file press CTRL+S
 ```
+# Inser picture on Juypter Cell
+
+- CTRL+SHIFT+S take a screenshot
+- Go to any Markdown cell
+- CTRL+V to paste the image.
 
 
 
