@@ -123,5 +123,114 @@ id(boolean_var)
 
 
 # Unfamiliar Operator
-- Reminder/Modulus %
-- Floor //
+- Reminder/Modulus % (it will give remainder )
+- Floor // (it will give 1 value that would be display before point)
+
+```
+20/4
+```
+```
+20 % 3    (Give Remainder)
+- 3*6 = 18
+- 3*7 = 21
+```
+
+```
+13//4
+- 13/4 => 3.25
+```
+
+```
+20//3
+- 20/3 = 6.66
+```
+
+```
+26//5
+```
+# Expressions (BODMAS)
+
+```
+((5*4) + (4-2))-5
+
+- = ((5*4) + (4-2))-5
+- = (20 + 2) - 5
+- = 22 - 5
+- = 17
+```
+```
+((((4*2)+2)/5)*3) +1
+```
+# Naming Convention and Reserve Keywords
+
+- id
+- type
+- print
+- if, else, elif
+
+# Rules
+
+- Don't have number in start
+- Naming can't ahve spaces (tip: use underscore)
+- Can't use reserve keywords
+
+# Tips
+
+- Always keep the name meanining full and consice
+     - name = "Atta" --> Good
+     - city = "Atta" --> wrong
+     - My_name_is = "Atta Ur Rehman"
+
+- [alt text](image.png)
+# Conditional Statement
+- if internert_available --> Class will be conducted.
+- if no internet_available --> There will be no class.
+# if-else
+ ```
+ internet = True
+ if internet:
+    print("Class will be Conducted")
+    print("Goto to Institute")
+    print("Attended the calss")
+else:
+    print("There will be no class")
+```
+### Q: Write a python code that check the age. If age is greater then 18 then eligible for CNIC else not elibigle
+
+```
+age= int(input("Enter your age:"))
+
+if age > 18:
+    print("You're eligible for CNIC")
+else:
+    print("Sorry, You're not Eligible")
+
+```
+# Conditional Operators
+
+- ````Greater then```` >
+- ````Less then```` <
+- ````Not equal```` to !=
+- ````Greater then```` and ````Equal to```` >=
+- ````Less then```` and ````Equal to```` <=
+- ````equals to```` ==
+
+```
+5 > 2
+```
+```
+3 < 7
+```
+```
+5 != 6
+```
+```
+5 == 5
+```
+
+```
+40 >= 41
+```
+```
+40 <= 41
+```
