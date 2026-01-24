@@ -108,7 +108,8 @@ id(boolean_var)
 ```
 - ````Divide```` /
 ```
-20/5 # Note it down that divide give result in FLOAT
+20/5 
+- Note it down that divide give result in FLOAT
 ```
 - ````Power```` **
 ```
