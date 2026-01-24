@@ -181,7 +181,7 @@ id(boolean_var)
      - city = "Atta" --> wrong
      - My_name_is = "Atta Ur Rehman"
 
-- [alt text](image.png)
+- [Reserve Keywords](image.png)
 # Conditional Statement
 - if internert_available --> Class will be conducted.
 - if no internet_available --> There will be no class.
