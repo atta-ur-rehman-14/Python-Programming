@@ -73,6 +73,40 @@ for x in range(6):
 - Error Detection: Reports errors one by one as it encounters them in a specific line.
 - Memory Usage: Higher memory usage because the interpreter must remain in memory during execution.
 - Examples: Python, JavaScript, Ruby, PHP.
+# Escape Sequence
+In Python, an escape sequence is a series of characters beginning with a `backslash (\)` that is used to insert special characters, control codes, or characters that are difficult or illegal to type directly into a string. The backslash tells the interpreter to treat the following character(s) with a special meaning. 
+# Common Escape Sequences
+Here are some of the most commonly used escape sequences in Python: 
+```
+\' - Single quote
+```
+```
+\" - Double quote
+```
+```
+\\ - Backslash
+```
+```
+\n - Newline (Line Feed)
+```
+```
+\t - Tab (Horizontal Tab)
+```
+```
+\r - Carriage return
+```
+```
+\b - Backspace
+```
+```
+\f - Form feed
+```
+```
+\v - Vertical tab
+```
+```
+\a - ASCII Bell (alert sound) 
+```
 
 
 
