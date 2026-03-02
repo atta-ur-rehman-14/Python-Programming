@@ -43,6 +43,13 @@ It is a container that store multiple values
 ```
 list_name = [element1, element2, element3]
 ```
+
+# Tuple 
+Tuples are ordered collection of data items. They store multiple items in a single in a single variable.Tuple items are separated by commas and enclosed within round brackets (). Tuples are Unchangeable means that we cant't alter them after creation.
+```
+# Syntax for tuple
+tuple_name = (item1, item2, item3, ...)
+```
 # Indexing
 indexing means accessing element of sequence (like a list, string, or tuple) using thier position number
 - Always start with [0]
@@ -110,3 +117,10 @@ list_name.insert(index, value)
 Aggregate functions are used to perform calculations on a collection of values (like a list) and return a single summarised value.
 Some Common aggregate functions include:`sum()`,`min()`,`max()`,`len()`,
 `sorted()`.
+
+# Slicing
+Slicing in Python is the process of extracting a part (subset) of a sequence like a list, string, or tuple by specifying a start index, end index, and optional step. The element at the start index is included, but the element at the end index is not included.
+# syntax
+```
+sequence[start : end : step]
+```
