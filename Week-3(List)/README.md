@@ -43,13 +43,6 @@ It is a container that store multiple values
 ```
 list_name = [element1, element2, element3]
 ```
-
-# Tuple 
-Tuples are ordered collection of data items. They store multiple items in a single in a single variable.Tuple items are separated by commas and enclosed within round brackets (). Tuples are Unchangeable means that we cant't alter them after creation.
-```
-# Syntax for tuple
-tuple_name = (item1, item2, item3, ...)
-```
 # Indexing
 indexing means accessing element of sequence (like a list, string, or tuple) using thier position number
 - Always start with [0]
@@ -123,4 +116,22 @@ Slicing in Python is the process of extracting a part (subset) of a sequence lik
 # syntax
 ```
 sequence[start : end : step]
+```
+OR 
+```
+list_name= [start(included):end(excluded): step]
+```
+# Negative Slicing
+Negative slicing means using negative index numbers to access elements from the end of a sequence (list, string, tuple). In negative indexing, counting starts from -1, which represents the last element.
+- Left to Right
+# Positive Slicing
+Positive slicing is the process of extracting elements from a sequence (list, string, or tuple) using positive index numbers that start from 0 and move from left to right.
+
+- `:` Single colom means all element of list will be printed
+
+# Tuple 
+Tuples are ordered collection of data items. They store multiple items in a single in a single variable.Tuple items are separated by commas and enclosed within round brackets (). Tuples are Unchangeable means that we cant't alter them after creation.
+```
+# Syntax for tuple
+tuple_name = (item1, item2, item3, ...)
 ```
