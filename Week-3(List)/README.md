@@ -135,3 +135,4 @@ Tuples are ordered collection of data items. They store multiple items in a sing
 # Syntax for tuple
 tuple_name = (item1, item2, item3, ...)
 ```
+
