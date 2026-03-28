@@ -20,3 +20,11 @@ A while loop is used when a block of code needs to run as long as a condition is
 while condition:
     statement
 ```
+# Nested Loop
+A nested loop is a loop inside another loop. The inner loop runs completely every time the outer loop runs.
+# Syntax
+```
+for variable1 in sequence:
+    for variable2 in sequence:
+        statement
+```
