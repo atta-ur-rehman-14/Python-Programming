@@ -1,0 +1,17 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Atta Ur Rehman",
+      "age": 20,
+      "email": "atta@gmail.com"
+    }
+  ],
+  "classes": [],
+  "enrollments": [],
+  "next_ids": {
+    "student": 2,
+    "class": 1,
+    "enrollment": 1
+  }
+}
