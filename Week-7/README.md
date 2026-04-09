@@ -50,3 +50,15 @@ def student(**kwargs):
 
 student(name="Ali", age=20)
 ```
+# While Loop
+A while loop in Python is a control flow statement that repeatedly executes a block of code as long as a specified condition remains true. The loop terminates automatically when the condition becomes false.
+# Syntax
+```
+while condition:
+    # statements
+```
+# Working Mechanism
+- The condition is evaluated before each iteration.
+- If the condition is True, the loop body executes.
+- After execution, the condition is checked again.
+- This process continues until the condition becomes False.
