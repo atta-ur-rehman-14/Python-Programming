@@ -111,4 +111,11 @@ Name mangling is a technique in Python where private variables are internally re
 # 2. Protected
 
 A protected member is meant to be used inside the class and by its child (derived) classes.
-
+ # Abstraction 
+ - Abstraction is the concept of hiding implementation details and showing only the  essential features of an object to the user.
+ `@abstractmethos`
+ - An abstract method is a method that is declared in an abstract class but does not have a body (implementation), and must be defined in the child class.
+ # Encapsulation
+ Encapsulation is the process of wrapping data (variables) and methods (functions) into a single unit (class) and restricting direct access to some components.
+# Getter and setter Method
+Getter and Setter methods are used to access and update private variables of a class.
