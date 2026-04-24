@@ -43,3 +43,12 @@ It looks like a Python dictionary (key-value pairs).
 - `json.dump()` → write to file
 - `json.loads()` → string to Python
 - `json.dumps()` → Python to string
+# Exception Handling
+Exception handling is used to handle errors in a program so it doesn’t crash and runs smoothly.Instead of stopping the program, Python lets you catch and handle errors gracefully.
+# syntax
+```
+try:
+    # risky code
+except:
+    # runs if error occurs
+```
